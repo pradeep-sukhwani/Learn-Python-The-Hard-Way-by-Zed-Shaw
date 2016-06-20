@@ -1,0 +1,55 @@
+print: This is a print statement that prints strings, numbers, etc.
+"": This is double quotation. Anything inside the quotation is known as string.
+'': This is single quotation. Anything inside the quotation is known as string.
+""" """: This is triple quotation. Anything inside the quotation is known as string.
+#: This is hash. It is used to comment about your code. Anything inside the hash will not be printed into the console.
+-1,0,1,2: numbers.
+,: Comma is used to create space instead of end of line.
++: This is a plus sign. It is used to add something. It is also used to concatenate the string.
+-: This is a minus sign. It is used to subtract something.
+*: This is a ashterisk sign. It is used to multiply something.
+/: This is forward slash sign. It is used to divide something.
+%: This is percentage sign. It is used to get remainder. It is also used to check the divisibility test.
+<: This is less than sign.
+>: This is more than sign.
+<=: This is less than equal to sign.
+>=: This is more than equal to sign.
+=: This is a equal to sign. It is used to assign a value to a variable.
+==: This is double equal to sign. It is used to test if two things have same value.
+!=: This is not equal to sign.
+True/False: These are known as boolean characters.
+%s: This is a percentage symbol and keyword (s) is known as formatter. It is used to replace character with string.
+%d: This is a percentage symbol and keyword (d) is known as formatter. It is used as replace character with numbers.
+%r: This is a percentage symbol and keyword (r) is known as formatter. It is used for debugging as it carries the raw data of the variable.
+(): This is simeple brackets.
+\n: This is an escape character. It is used to go on new line.
+\r: This is an escape character. It is known as carriage return. It is used to go to start of the line.
+\b: This is an escape character. It is used to do backspace.
+\f: This is an escape character. It is known as form feed.
+\\: This is an escape character.
+\t: This is an escape character. It is used for horizontal tab.
+\v: This is an escape character. It is used for vertical tab.
+\': This is an escape character. It is used when the line who carries the apostrauphe word.
+\": This is an escape character. It is used when the line who carries the apostrauphe word.
+raw_input(): This is a function which is used to ask a input from user.
+int(): This is function which is used to add an integer value.
+float(): This is function which is used to add a float (decimal) value.
+round(): This is a function which is used to round the float (decimal) value.
+.close(): This is a function which is used to close the file when its done.
+.read: This is a function which is used to read a file.
+.readline: This is a function which is used to a read a line from a file.
+.truncate: This is a function which is used to erase the contents of a file.
+.write('stuff'): This is a function which is used to write something in a file. It carries a string in the parenthesis like "stuff".
+.seek(0): This is a function which is used to go to 0 byte (first byte) of a file. Here the seek function deals in byte.
+open(): This is a function which is used to open a file in a read mode.
+open(filename, 'w'): This is a function where 'w' is not just a string but also it converts the file into write mod.
+open(filename, 'r'): This is a function where 'r' is not just a string but also it converts the file into read mod which is a default mod.
+w+,r+,a+: This '+' sign is a modifier. This sign turn the file into both write + read mod.
+len(): This is a function where we get the length of a string return as a number.
++= 1: This is shorthand notation. This means x = x + 1, so its x +=1.
+return: This return statement returns the value when function is ready to its caller.
+import: This is module from where we import feature to our python script from the feature's list.
+from sys import argv: Here sys is a module. argv is an argument variable. This variable hold the arguments which you pass to the python script when you run it.
+from os.path import exist: It is a module which is used to check the file is exist or not.
+def function_name(func):: def defines the function. function_name is a name of function. func is an argument which is inside the parnethesis (). Here
+function can have no arguments or more than 1 argument separated by comma (,).

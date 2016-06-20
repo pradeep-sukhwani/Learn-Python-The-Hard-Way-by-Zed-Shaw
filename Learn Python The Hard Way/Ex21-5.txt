@@ -1,0 +1,53 @@
+print:
+"":
+'':
+""" """:
+#:
+-1,0,1,2:
+,:
++:
+-:
+*:
+/:
+%:
+<:
+>:
+<=:
+>=:
+=:
+==:
+!=:
+True/False:
+%s:
+%d:
+%r:
+():
+\n:
+\r:
+\b:
+\f:
+\\:
+\t:
+\v:
+\':
+\":
+raw_input():
+int():
+float():
+.close():
+.read:
+.readline:
+.truncate:
+.write('stuff'):
+.seek(0):
+open():
+open(filename, 'w'):
+open(filename, 'r'):
+w+,r+,a+:
+len():
++= 1:
+return:
+import:
+from sys import argv:
+from os.path import exist:
+def function_name(func):

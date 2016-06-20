@@ -1,0 +1,56 @@
+print: 		This print statement is used to print in the console. i.e. strings, numbers or whatever.
+"": 		double quotation. And whatever inside the quotation is known as string.
+'': 		single quotation. And whatever inside the quotation is known as string.
+""" """: 	triple quotation. And whatever inside the quotation is known as string.
+#: 			Hash is used to comments about your code. Inside this '#' Hash anything is written will not be printed while running code.
+-1,0,1,2: 	numbers.
+,: 			Comma doesn't end line. It instead leaves an empty space.
++: 			plus sign is used to add something.It is also used to concatenating string.
+-: 			minus sign is used to subtract something.
+*: 			ashterisk sign it is used for multiplication.
+/: 			foward slash. it is used to divide something.
+%: 			percentage, it is called modulo. it is used to get the remainder.
+<: 			less than symbol.
+>: 			more than symbol.
+<=:			less than equal to symbol.
+>=: 		more than equal to symbol.
+=:			Equal sign is used to assign a variable.
+==: 		This is double equal to sign. It is used to test if two things have same value.
+!=:			Not Equal to sign.
+True/False: It is called boolean characters.
+%s:			This is a percentage symbol and keyword (s) is known as formatter. It is used to convert string characters.
+%d: 		This is a percentage symbol and keyword (d) is known as formatter. Its a numbers conversion.
+%r: 		This is a percentage symbol and keyword (r) is known as formatter. Its for debugging since it displays raw data of the variable.
+(): 		Simple brackets.
+\n:			It is an escape character. It is used to go on new line.
+\r:			It is an escape character. It is known as carriage return. It is used to go to start of that line.
+\b:			It is an escape character. It is known as blackslash.
+\f:			It is an escape character. It is known as form feed.
+\\:			It is an escape character.
+\t:			It is an escape character. It is known for horizontal tab.
+\v:			It is an escape character. It is known for vertical tab.
+\':			It is an escape character. It is known for single notation. It is used when a line has a word who carries apaustraphe(') symbol.
+\":			It is an escape character. It is known for double notation. It is used when a line has a word who carries apaustraphe(") symbol.
+raw_input():It is a function which is used to ask user a input.
+int(): 		It is a function which is used to add interger value.
+float():	It is a function which is used to add decimal value.
+round():	It is a function which is used to round the floating (decimal) number.
+.close(): 	Closes the file. Like File->Save.. in your editor.
+.read: 		Reads the contents of the file. You can assign the result to a variable.
+.readline: 	Reads just one line of a text file.
+.truncate: 	Empties the file. Watch out if you care about the file.
+.write('stuff'): Writes "stuff" to the file. It takes a parameter of a string ex. "stuff".
+.seek(0): 	It is a function that deals in bytes. The function .seek(0) moves the file to 0 byte (first byte) in the file.
+open(): 	It is a function that is used to open a file in read mod.
+open(filename, 'w'): Here 'w' is not just a string but also it convert the file into write mod.
+open(filename, 'r'): Here 'r' is not just a string but also it convert the file into read mod.
+w+,r+,a+: 	Here '+' is a modifier and This will open the file in both read and write mode, and depending on the character 
+use position the file in different ways.
+len(): 		It gets the length of the strings and return as a number.
++= 1: 		Shorthand notation. It means like a = a + 1. so it will be a += 1.
+return: 	The return statement is used when function is ready to return a value to its caller.
+import:		It is a module/libraries used to add features to your script from python features list.
+from sys import argv: sys is a module. argv is an argument variable. This variable holds the arguments you pass to your python script when you run it.
+from os.path import exist: Its a module that is used to check a file is exist or not.
+def function_name(func): def defines a function. function_name It is a name of a function. It can be anything. func is an argument. 
+A function can carry no argument or more than one argument separated by comma(,).
